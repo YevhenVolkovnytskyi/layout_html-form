@@ -13,25 +13,3 @@
 .group .form-field:last-of-type {
   margin-bottom: 0;
 }
-
-/* .group:not(:first-of-type) {
-  margin: 20px 0;
-} */
-
-/*
-.form-field {
-  margin: 10px 0;
-}
-
-.group .form-field:first-child {
-  margin-top: 0;
-}
-
-.group .form-field:last-child {
-  margin-bottom: 0;
-} */
-
-/* .group:not(:first-child) {
-  margin: 10px 0;
-
-} */
